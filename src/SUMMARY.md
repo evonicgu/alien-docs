@@ -11,4 +11,5 @@
     - [Regular Expressions](lexer/Regular%20expressions.md)
     - [Matching](lexer/Matching.md)
     - [Contexts](lexer/Contexts.md)
+    - [Actions](lexer/Actions.md)
     - [How It Works]()
